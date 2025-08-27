@@ -1,2 +1,2 @@
-# hello-world
-CSC-310-01 Github Setup and Tutorial
+# Very Concise Explanation of Why This File Exists
+> Because I was told to do so...AND I WANTED TO.
